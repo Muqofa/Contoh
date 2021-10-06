@@ -1,2 +1,2 @@
-# Contoh
-Contoh 
+# BlazorGitHubPagesDemo
+BlazorGitHubPagesDemo
